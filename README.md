@@ -32,3 +32,5 @@ Step .6: Select Your Game Build Folder
 Step .7: Press Home 
 
 Step .8: Press Launch
+
+![Wayback Logo](https://user-images.githubusercontent.com/72167950/211964082-32e7e56a-81e2-4210-b694-228a437a0e07.jpg)
