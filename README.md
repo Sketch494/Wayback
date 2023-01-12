@@ -1,5 +1,15 @@
 # Wayback
-Wayback launcher V1
+Wayback launcher
+
+Credits
+
+MagmaDev Backend
+
+Spring Idea 
+
+Twin1 launcher
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
