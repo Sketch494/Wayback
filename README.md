@@ -1,7 +1,20 @@
 # Wayback
 Wayback launcher V1
------------------------------
-```
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+This is the official Wayback launcher from the Wayback discord server
+
+What is Wayback?
+
+Wayback is a new way to play OG Fortnite! we make sure that you can always find a game so direct hosting isn't involved.
+
+Wayback discord: https://discord.com/invite/qUd7DfmzcZ
+
+Wayback youtube: https://www.youtube.com/channel/UCwmIqDnPStpy2wDE95dx9Jg
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 How To Use
 
 Step .1: Download Wayback Launcher 
