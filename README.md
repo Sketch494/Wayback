@@ -1,2 +1,2 @@
-# WaybackV1
+# Wayback
 Wayback launcher V1
