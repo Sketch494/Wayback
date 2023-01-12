@@ -5,11 +5,13 @@
 
 Credits
 
-MagmaDev Backend
+Twin1#0001 launcher
 
-Spring Idea 
+MagmaDev#6904 Backend
 
-Twin1 launcher
+Spring#0001 Idea 
+
+
 
 
 
