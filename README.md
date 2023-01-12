@@ -11,4 +11,4 @@ Step .4: Press The Settings Icon
 Step .5: Sign In
 Step .6: Select Your Game Build Folder
 Step .7: Press Home 
-Step .8: Press Launch```
+Step .8: Press Launch
