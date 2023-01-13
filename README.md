@@ -31,21 +31,25 @@ Wayback youtube: https://www.youtube.com/channel/UCwmIqDnPStpy2wDE95dx9Jg
 
 How To Use
 
-Step .1: Download Wayback Launcher 
+Download Wayback Launcher 
 
-Step .2: Extract The Zip File
+Extract The Zip File
 
-Step .3: Open Wayback Launcher.exe
+Join The Discord Server https://discord.com/invite/qUd7DfmzcZ
 
-Step .4: Press The Settings Icon
+Go To #register and use /create to make an account
 
-Step .5: Sign In
+Open Wayback Launcher.exe
 
-Step .6: Select Your Game Build Folder
+Press The Settings Icon
 
-Step .7: Press Home 
+Sign In
 
-Step .8: Press Launch
+Select Your Game Build Folder
+
+Press Home 
+
+Press Launch
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
