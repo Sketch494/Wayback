@@ -17,7 +17,8 @@ Spring#0001 Idea
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the official Wayback launcher from the Wayback discord server
+This is the official Wayback launcher
+--------------------------------------
 
 What is Wayback?
 
